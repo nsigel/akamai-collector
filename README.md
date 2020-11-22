@@ -2,6 +2,7 @@
 Akamai Sensor Data Collector for HayaiAIO
 
 Collector source courtesy of https://github.com/CharlieAIO/akamai-collector. Thank you Charlie. 
+Modifications made by https://github.com/saucesteals. Thank you!
 
 Instructions:
 
