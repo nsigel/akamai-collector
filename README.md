@@ -9,7 +9,7 @@ The collected data can be used for battling anti-bots such as Akamai, PX, and mu
 
 ### Heroku
 
-󠀠 󠀠 󠀠[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fourwadu/hayai-akamai-collector/blob/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fourwadu/hayai-akamai-collector/blob/main)
 
 
 * Create a free database at [MongoDB](https://www.mongodb.com/)
