@@ -4,6 +4,7 @@
     "repository": "https://github.com/fourwadu/hayai-akamai-collector",
     "logo": "https://abck.tech/assets/icon_circle_2.png",
     "keywords": ["node", "express", "akamai", "data", "collector"],
+    "success_url": "/",
     "env": {
       "MONGO_URI": {
         "description": "URI for your Mongo DB",
