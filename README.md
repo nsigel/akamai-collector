@@ -2,7 +2,8 @@
 
 #### Collector source - courtesy of https://github.com/CharlieAIO/akamai-collector
 
-#### Modifications made by https://github.com/saucesteals
+#### Front end by wadu
+#### Script modifications made by https://github.com/saucesteals
 
 ----
 
