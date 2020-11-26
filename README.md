@@ -3,7 +3,7 @@
 Browser data collection made easy\
 Deploy in minutes (possibly seconds!)\
 \
-The collected data can be used for several anti-bots such as Akamai, PX, and much more!
+The collected data can be used for battling anti-bots such as Akamai, PX, and much more!
 
 ## Installation
 
