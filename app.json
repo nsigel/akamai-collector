@@ -1,0 +1,19 @@
+{
+    "name": "Data Collector",
+    "description": "Collects browser data and stores it in your MongoDB",
+    "repository": "https://github.com/fourwadu/hayai-akamai-collector",
+    "logo": "https://abck.tech/assets/icon_circle_2.png",
+    "keywords": ["node", "express", "akamai", "data", "collector"],
+    "env": {
+      "MONGO_URI": {
+        "description": "URI for your Mongo DB",
+        "generator": "mongo"
+      }
+    },
+    "image": "heroku/nodejs",
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      }
+    ]
+  }

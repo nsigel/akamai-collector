@@ -1,11 +1,9 @@
-# hayai-akamai-collector
-Akamai Sensor Data Collector for HayaiAIO
+# Browser Data Collector
 
-Collector source courtesy of https://github.com/CharlieAIO/akamai-collector. Thank you Charlie. 
-Modifications made by https://github.com/saucesteals. Thank you!
+#### Collector source - courtesy of https://github.com/CharlieAIO/akamai-collector
 
-Instructions:
+#### Modifications made by https://github.com/saucesteals
 
-1. Customize website
-2. Change endpoint to your own in the post function.
-3. Collect data!
+----
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fourwadu/hayai-akamai-collector)
