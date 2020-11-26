@@ -2,11 +2,12 @@ const express = require('express');
 const app = express()
 const mongoose = require('mongoose')
 const cors = require('cors')
+require("dotenv").config()
 
 // Stuuufff
 const PORT = process.env.PORT || 3000;
 const mongoURI = process.env.MONGO_URI
-if (!mongoURI) {console.log("MONGO_URI was not found in ENV variables."); process.exit(1);}
+if (!mongoURI) {console.log("\033[31mMONGO_URI was not found in ENV variables.\x1b[0m"); process.exit(0);}
 
 // MIDDLEWARE
 const bodyParser = require('body-parser')
@@ -31,6 +32,7 @@ mongoose.connect(mongoURI, {
 )
 
 // Starting Express
+console.log(`Available at localhost${PORT}`)
 app.listen(PORT);
 
 

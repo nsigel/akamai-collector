@@ -7,6 +7,8 @@ The collected data can be used for battling anti-bots such as Akamai, PX, and mu
 
 ## Installation
 
+### Heroku
+
 󠀠 󠀠 󠀠[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fourwadu/hayai-akamai-collector/blob/main)
 
 
@@ -14,6 +16,17 @@ The collected data can be used for battling anti-bots such as Akamai, PX, and mu
 * Click the [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/fourwadu/hayai-akamai-collector/blob/main) button above
 * Enter your newly created MongoDB's URI as prompted
 * Create your app and enjoy :)
+
+### Manual
+#### Requires Node.js (See [https://nodejs.org/en/download/](https://nodejs.org/en/download/))
+* Clone the repository: `git clone https://github.com/fourwadu/hayai-akamai-collector`
+* Create a free database at [MongoDB](https://www.mongodb.com/)
+* Open the example.env file
+* Replace `your_mongo_uri` with your newly created MongoDB's URI
+* Replace the PORT if needed (80 for default HTTP)
+* Rename the file to `.env`
+* Install dependencies: `npm i`
+* Start it: `npm start`
 
 ## Credits
  
