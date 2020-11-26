@@ -32,7 +32,7 @@ mongoose.connect(mongoURI, {
 )
 
 // Starting Express
-console.log(`Available at localhost${PORT}`)
+console.log(`Available at localhost:${PORT}`)
 app.listen(PORT);
 
 
