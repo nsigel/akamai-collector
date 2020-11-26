@@ -7,7 +7,7 @@
     "env": {
       "MONGO_URI": {
         "description": "URI for your Mongo DB",
-        "generator": "mongo"
+        "value": "mongodb+srv://..."
       }
     },
     "image": "heroku/nodejs",
