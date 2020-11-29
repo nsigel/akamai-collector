@@ -31,8 +31,8 @@ The collected data can be used for battling anti-bots such as Akamai, PX, and mu
 ## Credits
  
 Collector Source - [Charlie](https://github.com/CharlieAIO/akamai-collector) ([@0charlie01](https://twitter.com/0charlie01))\
-Front-end - [wadu](https://github.com/fourwadu) ([@fourwadu](https://github.com/fourwadu))\
-Back-end, heroku - [sauce](https://github.com/saucesteals) ([@saucesteals](https://twitter.com/saucesteals))
+Front-end, API - [wadu](https://github.com/fourwadu) ([@fourwadu](https://github.com/fourwadu))\
+Hosting, modifications to script - [sauce](https://github.com/saucesteals) ([@saucesteals](https://twitter.com/saucesteals))
 
 ## Contributing
  
